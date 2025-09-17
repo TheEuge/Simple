@@ -19,7 +19,7 @@ Input your **_real_** YouTube Data API key in the code:
 
 `const API_KEY = 'YOUR_API_key_here'; // Replace with your YouTube Data API key`
 
-- _Development feature_ added: to avoid quota overuse of API data calls download the search request as JSON locally upon a search call by pressing Download button and reuse/modify/amend it for testing UI/frontend part. Just select your locally saved JSON file to load.
+- **_Development feature_** added: to avoid quota overuse of API data calls download the search request as JSON locally upon a search call by pressing Download button and reuse/modify/amend it for testing UI/frontend part. Just select your locally saved JSON file to load.
 
 ## License
 MIT License
