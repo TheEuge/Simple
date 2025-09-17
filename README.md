@@ -1,6 +1,6 @@
 # Simple Project
 
-This is a "Simple" project containing a single `index.html` file. The project is simple because it is intended to provide just a small testing base for backend/frontend API calling to fetch and process statistical data.
+This is a "Simple" project containing a single `index.html` file. The project is simple because it is intended to provide just a small and  straight forward testing base for backend/frontend API calling to fetch and process statistical data.
 
 ## Project Structure
 - `index.html`: The main HTML file for the project.
