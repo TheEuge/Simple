@@ -9,7 +9,7 @@ The Project is HTML/JavaScript based.
 - `index.html`: The main HTML file for the whole project.
 
 ## How to Use
-Open `index.html` in your web browser to view the project.
+Just download and open `index.html` in your web browser to view the project.
 
 ## Configuration
 No additional configuration files or installing dependencies is required. This project is intended to be minimal and static for fast functionality testing.
