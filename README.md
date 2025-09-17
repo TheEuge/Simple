@@ -3,7 +3,7 @@
 This is a **"Simple"** project containing a single `index.html` file. The project is simple because it is intended to provide just a small and straight forward testing base for backend/frontend API calling to fetch and process statistical data from YouTube API calls.
 The Project is HTML/JavaScript based.
 
-!The Project is NOT recommended for production due to lack of security (API key is explicitly exposed in the code).
+**!ATTENTION!** The Project is NOT recommended for production due to lack of security (API key is explicitly exposed in the code).
 
 ## Project Structure
 - `index.html`: The main HTML file for the whole project.
